@@ -1,0 +1,14 @@
+<?xml version="1.0" standalone="yes"?>
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+    <channel>
+        <title>Ana</title>
+        <item>
+            <title>0.1.0</title>
+            <pubDate>Wed, 05 Aug 2026 09:41:28 -0400</pubDate>
+            <sparkle:version>202608051340</sparkle:version>
+            <sparkle:shortVersionString>0.1.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/miborysenko/ana-updates/releases/download/mac-202608051340/Ana-macOS-202608051340.zip" length="9052688" type="application/octet-stream" sparkle:edSignature="8ORHA4EIE7zE54Z1FQ88N43mwQiUaaopE7VDmkwjcLopV5PNz6PM4swxFYkdJM0NcAX66fCVcGQzl4y6Q5i+BQ=="/>
+        </item>
+    </channel>
+</rss>
