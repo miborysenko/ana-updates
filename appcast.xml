@@ -4,6 +4,14 @@
         <title>Ana</title>
         <item>
             <title>0.1.0</title>
+            <pubDate>Sun, 09 Aug 2026 19:32:06 -0400</pubDate>
+            <sparkle:version>202608092330</sparkle:version>
+            <sparkle:shortVersionString>0.1.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/miborysenko/ana-updates/releases/download/mac-202608092330/Ana-macOS-202608092330.zip" length="9213666" type="application/octet-stream" sparkle:edSignature="HVuKqC0HHgTnbIixoDHpeZRQESE1tkgs9xaHppPi4JV7dtMn3TQM56ORnNcneOJcm+3Lr9iM5nFa2DCQcpCRBw=="/>
+        </item>
+        <item>
+            <title>0.1.0</title>
             <pubDate>Wed, 05 Aug 2026 09:41:28 -0400</pubDate>
             <sparkle:version>202608051340</sparkle:version>
             <sparkle:shortVersionString>0.1.0</sparkle:shortVersionString>
