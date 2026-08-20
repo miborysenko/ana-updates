@@ -4,6 +4,14 @@
         <title>Ana</title>
         <item>
             <title>0.1.0</title>
+            <pubDate>Thu, 20 Aug 2026 01:11:17 -0400</pubDate>
+            <sparkle:version>202608200509</sparkle:version>
+            <sparkle:shortVersionString>0.1.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/miborysenko/ana-updates/releases/download/mac-202608200509/Ana-macOS-202608200509.zip" length="9709061" type="application/octet-stream" sparkle:edSignature="gh710b47Gga4Z4Aj3TMnrv8uVZQWMLG82EEtF2bMXie+f84EGSdxWXPuAYiQ9sgZwzgNwUa8GX9j7Je+q03gCQ=="/>
+        </item>
+        <item>
+            <title>0.1.0</title>
             <pubDate>Mon, 10 Aug 2026 07:36:36 -0400</pubDate>
             <sparkle:version>202608101135</sparkle:version>
             <sparkle:shortVersionString>0.1.0</sparkle:shortVersionString>
@@ -17,14 +25,6 @@
             <sparkle:shortVersionString>0.1.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
             <enclosure url="https://github.com/miborysenko/ana-updates/releases/download/mac-202608092330/Ana-macOS-202608092330.zip" length="9213666" type="application/octet-stream" sparkle:edSignature="HVuKqC0HHgTnbIixoDHpeZRQESE1tkgs9xaHppPi4JV7dtMn3TQM56ORnNcneOJcm+3Lr9iM5nFa2DCQcpCRBw=="/>
-        </item>
-        <item>
-            <title>0.1.0</title>
-            <pubDate>Wed, 05 Aug 2026 09:41:28 -0400</pubDate>
-            <sparkle:version>202608051340</sparkle:version>
-            <sparkle:shortVersionString>0.1.0</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/miborysenko/ana-updates/releases/download/mac-202608051340/Ana-macOS-202608051340.zip" length="9052688" type="application/octet-stream" sparkle:edSignature="8ORHA4EIE7zE54Z1FQ88N43mwQiUaaopE7VDmkwjcLopV5PNz6PM4swxFYkdJM0NcAX66fCVcGQzl4y6Q5i+BQ=="/>
         </item>
     </channel>
 </rss>
