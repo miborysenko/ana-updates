@@ -4,6 +4,14 @@
         <title>Ana</title>
         <item>
             <title>0.1.0</title>
+            <pubDate>Tue, 01 Sep 2026 21:34:04 -0400</pubDate>
+            <sparkle:version>202609020132</sparkle:version>
+            <sparkle:shortVersionString>0.1.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/miborysenko/ana-updates/releases/download/mac-202609020132/Ana-macOS-202609020132.zip" length="11329071" type="application/octet-stream" sparkle:edSignature="OCRICBxj1J/cvhLgLMtYTx+deUMTsvbf/Ps0S17tMZcI4Mb3N3QDOMbzk7WFbg5E80+U/Inr4IdNvPExLH0ZAA=="/>
+        </item>
+        <item>
+            <title>0.1.0</title>
             <pubDate>Tue, 01 Sep 2026 19:29:41 -0400</pubDate>
             <sparkle:version>202609012327</sparkle:version>
             <sparkle:shortVersionString>0.1.0</sparkle:shortVersionString>
@@ -17,14 +25,6 @@
             <sparkle:shortVersionString>0.1.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
             <enclosure url="https://github.com/miborysenko/ana-updates/releases/download/mac-202609011300/Ana-macOS-202609011300.zip" length="10761878" type="application/octet-stream" sparkle:edSignature="u5Lb65KgMAndYKc1hm2JobAAr8PRJ0YX5YUYTTpwHqCvX/avQOoISyfb+cHt8Fi/RK4v/2ul+1i8l8vfDcZTBQ=="/>
-        </item>
-        <item>
-            <title>0.1.0</title>
-            <pubDate>Thu, 20 Aug 2026 01:11:17 -0400</pubDate>
-            <sparkle:version>202608200509</sparkle:version>
-            <sparkle:shortVersionString>0.1.0</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/miborysenko/ana-updates/releases/download/mac-202608200509/Ana-macOS-202608200509.zip" length="9709061" type="application/octet-stream" sparkle:edSignature="gh710b47Gga4Z4Aj3TMnrv8uVZQWMLG82EEtF2bMXie+f84EGSdxWXPuAYiQ9sgZwzgNwUa8GX9j7Je+q03gCQ=="/>
         </item>
     </channel>
 </rss>
