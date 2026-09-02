@@ -4,6 +4,14 @@
         <title>Ana</title>
         <item>
             <title>0.1.0</title>
+            <pubDate>Wed, 02 Sep 2026 18:29:46 -0400</pubDate>
+            <sparkle:version>202609022227</sparkle:version>
+            <sparkle:shortVersionString>0.1.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/miborysenko/ana-updates/releases/download/mac-202609022227/Ana-macOS-202609022227.zip" length="11455009" type="application/octet-stream" sparkle:edSignature="y6HCi3mOauUoEq+bttQBsEj8bWz1HgQnhVv6mw0ExrGEvyAexeqTCc0yA675+T3doNUjJAeX6MRHWRjoFDZGDg=="/>
+        </item>
+        <item>
+            <title>0.1.0</title>
             <pubDate>Wed, 02 Sep 2026 17:33:12 -0400</pubDate>
             <sparkle:version>202609022130</sparkle:version>
             <sparkle:shortVersionString>0.1.0</sparkle:shortVersionString>
@@ -17,14 +25,6 @@
             <sparkle:shortVersionString>0.1.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
             <enclosure url="https://github.com/miborysenko/ana-updates/releases/download/mac-202609021926/Ana-macOS-202609021926.zip" length="11453819" type="application/octet-stream" sparkle:edSignature="OrcPE1CgPhRVS4lXHxYmcYUpT1dnSMj0Q3UCG4W2aVkV0RbYSLSZw6Tx4teJzW/+leDD+zcI9Mi19umBueqQBg=="/>
-        </item>
-        <item>
-            <title>0.1.0</title>
-            <pubDate>Wed, 02 Sep 2026 15:03:26 -0400</pubDate>
-            <sparkle:version>202609021901</sparkle:version>
-            <sparkle:shortVersionString>0.1.0</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/miborysenko/ana-updates/releases/download/mac-202609021901/Ana-macOS-202609021901.zip" length="11446050" type="application/octet-stream" sparkle:edSignature="aKTy50P87dIAfPo49Ggel3+L1esgzCEosCxxF/whtq+oM4eWm7NbAL9KTRU2NrQCDrp6oVSx6Kg8Idb8pJiJAg=="/>
         </item>
     </channel>
 </rss>
