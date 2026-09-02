@@ -4,6 +4,14 @@
         <title>Ana</title>
         <item>
             <title>0.1.0</title>
+            <pubDate>Wed, 02 Sep 2026 01:58:07 -0400</pubDate>
+            <sparkle:version>202609020555</sparkle:version>
+            <sparkle:shortVersionString>0.1.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/miborysenko/ana-updates/releases/download/mac-202609020555/Ana-macOS-202609020555.zip" length="11357378" type="application/octet-stream" sparkle:edSignature="Q2iby/jO9HtBzZuCC5IHFvmHXJbBsICdE/uPxlDqgjgApWfC6RVyHi4GjqSub+h9C5UXpJIMCCuVy8kpCYbrDg=="/>
+        </item>
+        <item>
+            <title>0.1.0</title>
             <pubDate>Tue, 01 Sep 2026 21:34:04 -0400</pubDate>
             <sparkle:version>202609020132</sparkle:version>
             <sparkle:shortVersionString>0.1.0</sparkle:shortVersionString>
@@ -17,14 +25,6 @@
             <sparkle:shortVersionString>0.1.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
             <enclosure url="https://github.com/miborysenko/ana-updates/releases/download/mac-202609012327/Ana-macOS-202609012327.zip" length="11302398" type="application/octet-stream" sparkle:edSignature="o/5kl199+hkMWMCBKep0oUnB9n1bN0a0yAQe2bqWyUsWy/ver6GzHsuegjKoWuGgHgN2XY3TvoTFYJ9K5ox2Cg=="/>
-        </item>
-        <item>
-            <title>0.1.0</title>
-            <pubDate>Tue, 01 Sep 2026 09:02:29 -0400</pubDate>
-            <sparkle:version>202609011300</sparkle:version>
-            <sparkle:shortVersionString>0.1.0</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/miborysenko/ana-updates/releases/download/mac-202609011300/Ana-macOS-202609011300.zip" length="10761878" type="application/octet-stream" sparkle:edSignature="u5Lb65KgMAndYKc1hm2JobAAr8PRJ0YX5YUYTTpwHqCvX/avQOoISyfb+cHt8Fi/RK4v/2ul+1i8l8vfDcZTBQ=="/>
         </item>
     </channel>
 </rss>
