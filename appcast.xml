@@ -4,6 +4,14 @@
         <title>Ana</title>
         <item>
             <title>0.1.0</title>
+            <pubDate>Sat, 05 Sep 2026 12:34:52 -0400</pubDate>
+            <sparkle:version>202609051632</sparkle:version>
+            <sparkle:shortVersionString>0.1.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/miborysenko/ana-updates/releases/download/mac-202609051632/Ana-macOS-202609051632.zip" length="11621905" type="application/octet-stream" sparkle:edSignature="h2b9TLPgX+3VZeARuHysjQuBEtgw6jyosFUG/vCkPu0v728kDJHcGHHs63DynTaR9dSEELnhQZm/PpPsJCxFBw=="/>
+        </item>
+        <item>
+            <title>0.1.0</title>
             <pubDate>Fri, 04 Sep 2026 21:42:19 -0400</pubDate>
             <sparkle:version>202609050139</sparkle:version>
             <sparkle:shortVersionString>0.1.0</sparkle:shortVersionString>
@@ -17,14 +25,6 @@
             <sparkle:shortVersionString>0.1.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
             <enclosure url="https://github.com/miborysenko/ana-updates/releases/download/mac-202609041420/Ana-macOS-202609041420.zip" length="11480582" type="application/octet-stream" sparkle:edSignature="TDxrmwD08gYDIIEuC0nzEAEEu/VRRWLGHCwT2iKApbWty9HwzuFkCm/by9whGn0l9L/ZtMBMSXKLrpxmAKRkCQ=="/>
-        </item>
-        <item>
-            <title>0.1.0</title>
-            <pubDate>Fri, 04 Sep 2026 09:38:10 -0400</pubDate>
-            <sparkle:version>202609041335</sparkle:version>
-            <sparkle:shortVersionString>0.1.0</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/miborysenko/ana-updates/releases/download/mac-202609041335/Ana-macOS-202609041335.zip" length="11479556" type="application/octet-stream" sparkle:edSignature="z0jXxaReeRtYp7DWmZeWzjReh07QYAFk48Ce1pKgnhOp91ag8uJE3svjWFQ8I9W9pxvm/MCgwwG1M02FV2dBBg=="/>
         </item>
     </channel>
 </rss>
