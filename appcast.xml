@@ -4,6 +4,14 @@
         <title>Ana</title>
         <item>
             <title>0.1.0</title>
+            <pubDate>Fri, 18 Sep 2026 00:17:25 -0400</pubDate>
+            <sparkle:version>202609180415</sparkle:version>
+            <sparkle:shortVersionString>0.1.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/miborysenko/ana-updates/releases/download/mac-202609180415/Ana-macOS-202609180415.zip" length="11726022" type="application/octet-stream" sparkle:edSignature="qusmAxKliM7k00OnkwPflWQZXpbPPj2htvzcH1Ysl2vPKY8yXy+BE5WY2TZCzsi64EPuo49KbS4tMzCZn0G2Dg=="/>
+        </item>
+        <item>
+            <title>0.1.0</title>
             <pubDate>Thu, 17 Sep 2026 22:02:58 -0400</pubDate>
             <sparkle:version>202609180200</sparkle:version>
             <sparkle:shortVersionString>0.1.0</sparkle:shortVersionString>
@@ -17,14 +25,6 @@
             <sparkle:shortVersionString>0.1.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
             <enclosure url="https://github.com/miborysenko/ana-updates/releases/download/mac-202609072251/Ana-macOS-202609072251.zip" length="11771745" type="application/octet-stream" sparkle:edSignature="Gfku8aqMhOl+Evn8aY3oSuWPIUCW/lLfH3opEEx4WGLRRB7WGjRuxlNSAgLIL1orEtH1FRQ+FrTUstPwtxHXDg=="/>
-        </item>
-        <item>
-            <title>0.1.0</title>
-            <pubDate>Sat, 05 Sep 2026 12:34:52 -0400</pubDate>
-            <sparkle:version>202609051632</sparkle:version>
-            <sparkle:shortVersionString>0.1.0</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/miborysenko/ana-updates/releases/download/mac-202609051632/Ana-macOS-202609051632.zip" length="11621905" type="application/octet-stream" sparkle:edSignature="h2b9TLPgX+3VZeARuHysjQuBEtgw6jyosFUG/vCkPu0v728kDJHcGHHs63DynTaR9dSEELnhQZm/PpPsJCxFBw=="/>
         </item>
     </channel>
 </rss>
