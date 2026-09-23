@@ -4,6 +4,14 @@
         <title>Ana</title>
         <item>
             <title>0.1.0</title>
+            <pubDate>Wed, 23 Sep 2026 08:42:56 -0400</pubDate>
+            <sparkle:version>202609231241</sparkle:version>
+            <sparkle:shortVersionString>0.1.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/miborysenko/ana-updates/releases/download/mac-202609231241/Ana-macOS-202609231241.zip" length="11739670" type="application/octet-stream" sparkle:edSignature="J+2PwIhtB0kp6DRNGaGnzzsKfoW5FpluxcB3Ct07Vd/jYP+g7V2cxHOHU7ckuTR0Ou7cOAmW/UGtzXC5SAMICA=="/>
+        </item>
+        <item>
+            <title>0.1.0</title>
             <pubDate>Fri, 18 Sep 2026 00:17:25 -0400</pubDate>
             <sparkle:version>202609180415</sparkle:version>
             <sparkle:shortVersionString>0.1.0</sparkle:shortVersionString>
@@ -17,14 +25,6 @@
             <sparkle:shortVersionString>0.1.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
             <enclosure url="https://github.com/miborysenko/ana-updates/releases/download/mac-202609180200/Ana-macOS-202609180200.zip" length="11725158" type="application/octet-stream" sparkle:edSignature="brgYRduPstasZXxSR36Ri2A0BJVn6uNMluIsX8vQrSPYAoBTWAdzfkZpQ3NMbLXdQ6Q9W8HN4kV/ELl2OeRLCw=="/>
-        </item>
-        <item>
-            <title>0.1.0</title>
-            <pubDate>Mon, 07 Sep 2026 18:52:59 -0400</pubDate>
-            <sparkle:version>202609072251</sparkle:version>
-            <sparkle:shortVersionString>0.1.0</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/miborysenko/ana-updates/releases/download/mac-202609072251/Ana-macOS-202609072251.zip" length="11771745" type="application/octet-stream" sparkle:edSignature="Gfku8aqMhOl+Evn8aY3oSuWPIUCW/lLfH3opEEx4WGLRRB7WGjRuxlNSAgLIL1orEtH1FRQ+FrTUstPwtxHXDg=="/>
         </item>
     </channel>
 </rss>
