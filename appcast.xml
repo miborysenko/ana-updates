@@ -4,6 +4,14 @@
         <title>Ana</title>
         <item>
             <title>0.1.0</title>
+            <pubDate>Wed, 18 Nov 2026 09:54:02 -0500</pubDate>
+            <sparkle:version>202611181451</sparkle:version>
+            <sparkle:shortVersionString>0.1.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/miborysenko/ana-updates/releases/download/mac-202611181451/Ana-macOS-202611181451.zip" length="12672243" type="application/octet-stream" sparkle:edSignature="3Yh6pLlj6+99lK61GK2fGpRQcSWARkVnNYK8K2GSwbB7ZlstEGZqLzNKd1wt8dqhnfUER7SOB9ZJR5e6e4OUCw=="/>
+        </item>
+        <item>
+            <title>0.1.0</title>
             <pubDate>Tue, 17 Nov 2026 14:18:01 -0500</pubDate>
             <sparkle:version>202611171915</sparkle:version>
             <sparkle:shortVersionString>0.1.0</sparkle:shortVersionString>
@@ -17,14 +25,6 @@
             <sparkle:shortVersionString>0.1.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
             <enclosure url="https://github.com/miborysenko/ana-updates/releases/download/mac-202611171808/Ana-macOS-202611171808.zip" length="12515804" type="application/octet-stream" sparkle:edSignature="ES5Z/XJ2WYIR2+5pzEhG0AzSXZDcxj6FyQqGbPRY2xuF80Z8XzTBxM1WE62gmyNnDdt1eGPtZ3beTuOusifHAA=="/>
-        </item>
-        <item>
-            <title>0.1.0</title>
-            <pubDate>Wed, 23 Sep 2026 08:42:56 -0400</pubDate>
-            <sparkle:version>202609231241</sparkle:version>
-            <sparkle:shortVersionString>0.1.0</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/miborysenko/ana-updates/releases/download/mac-202609231241/Ana-macOS-202609231241.zip" length="11739670" type="application/octet-stream" sparkle:edSignature="J+2PwIhtB0kp6DRNGaGnzzsKfoW5FpluxcB3Ct07Vd/jYP+g7V2cxHOHU7ckuTR0Ou7cOAmW/UGtzXC5SAMICA=="/>
         </item>
     </channel>
 </rss>
