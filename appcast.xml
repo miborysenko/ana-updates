@@ -4,6 +4,14 @@
         <title>Ana</title>
         <item>
             <title>0.1.0</title>
+            <pubDate>Wed, 18 Nov 2026 15:51:57 -0500</pubDate>
+            <sparkle:version>202611182049</sparkle:version>
+            <sparkle:shortVersionString>0.1.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/miborysenko/ana-updates/releases/download/mac-202611182049/Ana-macOS-202611182049.zip" length="12829101" type="application/octet-stream" sparkle:edSignature="G3FWxWP0Rra+QAX62aUbGKU9SmEdsnFPFh1UzsPJ0KbPbuCxQIJgP3jM7FhNbHZjAUjQzU7x5E69CUKZWoV3AQ=="/>
+        </item>
+        <item>
+            <title>0.1.0</title>
             <pubDate>Wed, 18 Nov 2026 13:50:25 -0500</pubDate>
             <sparkle:version>202611181846</sparkle:version>
             <sparkle:shortVersionString>0.1.0</sparkle:shortVersionString>
@@ -17,14 +25,6 @@
             <sparkle:shortVersionString>0.1.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
             <enclosure url="https://github.com/miborysenko/ana-updates/releases/download/mac-202611181642/Ana-macOS-202611181642.zip" length="12696374" type="application/octet-stream" sparkle:edSignature="oIARV1Fk5JIgBMiKaCJJm9d0x+sLZJM54xHJHigk0H+noSuJegDOgOqM6+MrXQM+2CtyM0I0mn4QPjbE3o4MAw=="/>
-        </item>
-        <item>
-            <title>0.1.0</title>
-            <pubDate>Wed, 18 Nov 2026 09:54:02 -0500</pubDate>
-            <sparkle:version>202611181451</sparkle:version>
-            <sparkle:shortVersionString>0.1.0</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/miborysenko/ana-updates/releases/download/mac-202611181451/Ana-macOS-202611181451.zip" length="12672243" type="application/octet-stream" sparkle:edSignature="3Yh6pLlj6+99lK61GK2fGpRQcSWARkVnNYK8K2GSwbB7ZlstEGZqLzNKd1wt8dqhnfUER7SOB9ZJR5e6e4OUCw=="/>
         </item>
     </channel>
 </rss>
