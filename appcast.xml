@@ -4,6 +4,14 @@
         <title>Ana</title>
         <item>
             <title>0.1.0</title>
+            <pubDate>Sun, 22 Nov 2026 16:12:41 -0500</pubDate>
+            <sparkle:version>202611222110</sparkle:version>
+            <sparkle:shortVersionString>0.1.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/miborysenko/ana-updates/releases/download/mac-202611222110/Ana-macOS-202611222110.zip" length="13352483" type="application/octet-stream" sparkle:edSignature="01SZHgu8lp2e3O65h8SVYAJkyX6PFKEvUPJFM38qAXdsShVpxsjg0pOSZihL4i5LTKlj71zL8VgKzWR3+OP5CA=="/>
+        </item>
+        <item>
+            <title>0.1.0</title>
             <pubDate>Sun, 22 Nov 2026 11:59:40 -0500</pubDate>
             <sparkle:version>202611221657</sparkle:version>
             <sparkle:shortVersionString>0.1.0</sparkle:shortVersionString>
@@ -17,14 +25,6 @@
             <sparkle:shortVersionString>0.1.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
             <enclosure url="https://github.com/miborysenko/ana-updates/releases/download/mac-202611182049/Ana-macOS-202611182049.zip" length="12829101" type="application/octet-stream" sparkle:edSignature="G3FWxWP0Rra+QAX62aUbGKU9SmEdsnFPFh1UzsPJ0KbPbuCxQIJgP3jM7FhNbHZjAUjQzU7x5E69CUKZWoV3AQ=="/>
-        </item>
-        <item>
-            <title>0.1.0</title>
-            <pubDate>Wed, 18 Nov 2026 13:50:25 -0500</pubDate>
-            <sparkle:version>202611181846</sparkle:version>
-            <sparkle:shortVersionString>0.1.0</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/miborysenko/ana-updates/releases/download/mac-202611181846/Ana-macOS-202611181846.zip" length="12768146" type="application/octet-stream" sparkle:edSignature="dp1aaW06STe5suPdU0gInFnPYTpJBr+264xVEKVoY3840UoL/z4xnKDNQmdyYU4/sPQ5ve3ZMfXLE7YKCswaDw=="/>
         </item>
     </channel>
 </rss>
