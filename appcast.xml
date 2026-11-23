@@ -4,6 +4,14 @@
         <title>Ana</title>
         <item>
             <title>0.1.0</title>
+            <pubDate>Mon, 23 Nov 2026 14:55:27 -0500</pubDate>
+            <sparkle:version>202611231953</sparkle:version>
+            <sparkle:shortVersionString>0.1.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/miborysenko/ana-updates/releases/download/mac-202611231953/Ana-macOS-202611231953.zip" length="13712517" type="application/octet-stream" sparkle:edSignature="P0iWX+7TWs5spoIWC2vDqJ7aAe05WFIZsq4A4iEAM0/UFuufuxaibm7PwcsVP52GUqafqFWW0NVHQ8qWsk+sAA=="/>
+        </item>
+        <item>
+            <title>0.1.0</title>
             <pubDate>Sun, 22 Nov 2026 16:12:41 -0500</pubDate>
             <sparkle:version>202611222110</sparkle:version>
             <sparkle:shortVersionString>0.1.0</sparkle:shortVersionString>
@@ -17,14 +25,6 @@
             <sparkle:shortVersionString>0.1.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
             <enclosure url="https://github.com/miborysenko/ana-updates/releases/download/mac-202611221657/Ana-macOS-202611221657.zip" length="13060281" type="application/octet-stream" sparkle:edSignature="Lcwg2UF/MtsSucVBaXdtvB13s7lEaL4H2dUtHdXcRwaWFHXEnqr/4Vd389mo4K1g8Ut28tAx6anraQUSohiqBg=="/>
-        </item>
-        <item>
-            <title>0.1.0</title>
-            <pubDate>Wed, 18 Nov 2026 15:51:57 -0500</pubDate>
-            <sparkle:version>202611182049</sparkle:version>
-            <sparkle:shortVersionString>0.1.0</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/miborysenko/ana-updates/releases/download/mac-202611182049/Ana-macOS-202611182049.zip" length="12829101" type="application/octet-stream" sparkle:edSignature="G3FWxWP0Rra+QAX62aUbGKU9SmEdsnFPFh1UzsPJ0KbPbuCxQIJgP3jM7FhNbHZjAUjQzU7x5E69CUKZWoV3AQ=="/>
         </item>
     </channel>
 </rss>
