@@ -4,6 +4,14 @@
         <title>Ana</title>
         <item>
             <title>0.1.0</title>
+            <pubDate>Tue, 24 Nov 2026 12:38:59 -0500</pubDate>
+            <sparkle:version>202611241736</sparkle:version>
+            <sparkle:shortVersionString>0.1.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/miborysenko/ana-updates/releases/download/mac-202611241736/Ana-macOS-202611241736.zip" length="18360171" type="application/octet-stream" sparkle:edSignature="ihNi2v9t6lbxqSguLy9gZFO6EtSpDRqRKnQ9rwmIlH+oCeBlkjpz5ucKn8Iwp1euh2gMUDJAI8rj5YTHtpjACw=="/>
+        </item>
+        <item>
+            <title>0.1.0</title>
             <pubDate>Tue, 24 Nov 2026 11:05:52 -0500</pubDate>
             <sparkle:version>202611241603</sparkle:version>
             <sparkle:shortVersionString>0.1.0</sparkle:shortVersionString>
@@ -17,14 +25,6 @@
             <sparkle:shortVersionString>0.1.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
             <enclosure url="https://github.com/miborysenko/ana-updates/releases/download/mac-202611231953/Ana-macOS-202611231953.zip" length="13712517" type="application/octet-stream" sparkle:edSignature="P0iWX+7TWs5spoIWC2vDqJ7aAe05WFIZsq4A4iEAM0/UFuufuxaibm7PwcsVP52GUqafqFWW0NVHQ8qWsk+sAA=="/>
-        </item>
-        <item>
-            <title>0.1.0</title>
-            <pubDate>Sun, 22 Nov 2026 16:12:41 -0500</pubDate>
-            <sparkle:version>202611222110</sparkle:version>
-            <sparkle:shortVersionString>0.1.0</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/miborysenko/ana-updates/releases/download/mac-202611222110/Ana-macOS-202611222110.zip" length="13352483" type="application/octet-stream" sparkle:edSignature="01SZHgu8lp2e3O65h8SVYAJkyX6PFKEvUPJFM38qAXdsShVpxsjg0pOSZihL4i5LTKlj71zL8VgKzWR3+OP5CA=="/>
         </item>
     </channel>
 </rss>
