@@ -4,6 +4,14 @@
         <title>Ana</title>
         <item>
             <title>0.1.0</title>
+            <pubDate>Wed, 25 Nov 2026 09:21:43 -0500</pubDate>
+            <sparkle:version>202611251419</sparkle:version>
+            <sparkle:shortVersionString>0.1.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/miborysenko/ana-updates/releases/download/mac-202611251419/Ana-macOS-202611251419.zip" length="19539211" type="application/octet-stream" sparkle:edSignature="9yp+lHszTZO07kkA2ctm3AWKlI4vHeiAoDRQWC9yapS0UpTqXPtkNUH71FdlIiEtGTCR9j1Na6IttJNCTJidDg=="/>
+        </item>
+        <item>
+            <title>0.1.0</title>
             <pubDate>Wed, 25 Nov 2026 08:55:14 -0500</pubDate>
             <sparkle:version>202611251352</sparkle:version>
             <sparkle:shortVersionString>0.1.0</sparkle:shortVersionString>
@@ -17,14 +25,6 @@
             <sparkle:shortVersionString>0.1.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
             <enclosure url="https://github.com/miborysenko/ana-updates/releases/download/mac-202611251115/Ana-macOS-202611251115.zip" length="19400682" type="application/octet-stream" sparkle:edSignature="oHZqKrl9Ooq+Wocmz6eUFUyf77hmB+lkO2M5YT6NU0SDFXJ2dMAI4NqLNIxPyKT/iV69db6DIPkpL21iusqLCw=="/>
-        </item>
-        <item>
-            <title>0.1.0</title>
-            <pubDate>Wed, 25 Nov 2026 05:08:14 -0500</pubDate>
-            <sparkle:version>202611251005</sparkle:version>
-            <sparkle:shortVersionString>0.1.0</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/miborysenko/ana-updates/releases/download/mac-202611251005/Ana-macOS-202611251005.zip" length="19358556" type="application/octet-stream" sparkle:edSignature="aAtotus3iiPEML6bBKvI1XMgv3+Psj8zCbX+SPwGAw0htxtTxIoBNa0WZSOXKTtv+IW45hjCcqsQ6wUPV4EDBA=="/>
         </item>
     </channel>
 </rss>
