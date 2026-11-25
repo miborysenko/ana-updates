@@ -4,6 +4,14 @@
         <title>Ana</title>
         <item>
             <title>0.1.0</title>
+            <pubDate>Tue, 24 Nov 2026 20:32:24 -0500</pubDate>
+            <sparkle:version>202611250129</sparkle:version>
+            <sparkle:shortVersionString>0.1.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/miborysenko/ana-updates/releases/download/mac-202611250129/Ana-macOS-202611250129.zip" length="18740275" type="application/octet-stream" sparkle:edSignature="8+J80Pfxl2/iOWFNzGfBWHVORSNVlzlz+EzVpXI9J3n0F3LxojEwVVjWejia6JGFerBIp6ZTPpdNE0th9F64BA=="/>
+        </item>
+        <item>
+            <title>0.1.0</title>
             <pubDate>Tue, 24 Nov 2026 19:43:07 -0500</pubDate>
             <sparkle:version>202611250040</sparkle:version>
             <sparkle:shortVersionString>0.1.0</sparkle:shortVersionString>
@@ -17,14 +25,6 @@
             <sparkle:shortVersionString>0.1.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
             <enclosure url="https://github.com/miborysenko/ana-updates/releases/download/mac-202611242338/Ana-macOS-202611242338.zip" length="18666981" type="application/octet-stream" sparkle:edSignature="VNQ0ewUwYRXKIdP6wi3WsB33b8i/7BsFCRNR8FT94G33PaSZnO+2aTTh4R9ImJJVMoCshCRV5UZfDBbMYQJeDw=="/>
-        </item>
-        <item>
-            <title>0.1.0</title>
-            <pubDate>Tue, 24 Nov 2026 16:52:35 -0500</pubDate>
-            <sparkle:version>202611242150</sparkle:version>
-            <sparkle:shortVersionString>0.1.0</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/miborysenko/ana-updates/releases/download/mac-202611242150/Ana-macOS-202611242150.zip" length="18483204" type="application/octet-stream" sparkle:edSignature="WFzmEyIKmYcTHM2hnuOqKJaud50S9RrTV0MIcD4BsUwoZ50t8F/4v+Xf48exO82Pe1CalSP/IDLHsalxteCaBA=="/>
         </item>
     </channel>
 </rss>
