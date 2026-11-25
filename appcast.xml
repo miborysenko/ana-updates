@@ -4,6 +4,14 @@
         <title>Ana</title>
         <item>
             <title>0.1.0</title>
+            <pubDate>Wed, 25 Nov 2026 05:08:14 -0500</pubDate>
+            <sparkle:version>202611251005</sparkle:version>
+            <sparkle:shortVersionString>0.1.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/miborysenko/ana-updates/releases/download/mac-202611251005/Ana-macOS-202611251005.zip" length="19358556" type="application/octet-stream" sparkle:edSignature="aAtotus3iiPEML6bBKvI1XMgv3+Psj8zCbX+SPwGAw0htxtTxIoBNa0WZSOXKTtv+IW45hjCcqsQ6wUPV4EDBA=="/>
+        </item>
+        <item>
+            <title>0.1.0</title>
             <pubDate>Wed, 25 Nov 2026 04:11:22 -0500</pubDate>
             <sparkle:version>202611250908</sparkle:version>
             <sparkle:shortVersionString>0.1.0</sparkle:shortVersionString>
@@ -17,14 +25,6 @@
             <sparkle:shortVersionString>0.1.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
             <enclosure url="https://github.com/miborysenko/ana-updates/releases/download/mac-202611250818/Ana-macOS-202611250818.zip" length="19320348" type="application/octet-stream" sparkle:edSignature="X96V3fvaDwOGCY4IASsPdp55MtBrKSXiq6yJjNBocDNR6BRKFL7wkUXXZkfAyuHYZZd3JIkYGeCRsyou7jg4Bg=="/>
-        </item>
-        <item>
-            <title>0.1.0</title>
-            <pubDate>Wed, 25 Nov 2026 02:35:23 -0500</pubDate>
-            <sparkle:version>202611250732</sparkle:version>
-            <sparkle:shortVersionString>0.1.0</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/miborysenko/ana-updates/releases/download/mac-202611250732/Ana-macOS-202611250732.zip" length="19299158" type="application/octet-stream" sparkle:edSignature="3O5fB/tIjAVKhbRh2PZ2g4DEdnMeoZvYSsHOqvGZy2JstDDz6xFbKM034sy+1MuHOUNk2PrtB0LrWIVHr5HbCw=="/>
         </item>
     </channel>
 </rss>
