@@ -4,6 +4,14 @@
         <title>Ana</title>
         <item>
             <title>0.1.0</title>
+            <pubDate>Wed, 25 Nov 2026 03:20:48 -0500</pubDate>
+            <sparkle:version>202611250818</sparkle:version>
+            <sparkle:shortVersionString>0.1.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/miborysenko/ana-updates/releases/download/mac-202611250818/Ana-macOS-202611250818.zip" length="19320348" type="application/octet-stream" sparkle:edSignature="X96V3fvaDwOGCY4IASsPdp55MtBrKSXiq6yJjNBocDNR6BRKFL7wkUXXZkfAyuHYZZd3JIkYGeCRsyou7jg4Bg=="/>
+        </item>
+        <item>
+            <title>0.1.0</title>
             <pubDate>Wed, 25 Nov 2026 02:35:23 -0500</pubDate>
             <sparkle:version>202611250732</sparkle:version>
             <sparkle:shortVersionString>0.1.0</sparkle:shortVersionString>
@@ -17,14 +25,6 @@
             <sparkle:shortVersionString>0.1.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
             <enclosure url="https://github.com/miborysenko/ana-updates/releases/download/mac-202611250637/Ana-macOS-202611250637.zip" length="19230685" type="application/octet-stream" sparkle:edSignature="dgXwDIsYrKEi2fxtBxMGAmmkD5UPsWNdh4Tf3Zb533aSMYFXJHUhs2A7iyGVI8Io/5PhCPUHjLQUKEzSAdCWAg=="/>
-        </item>
-        <item>
-            <title>0.1.0</title>
-            <pubDate>Tue, 24 Nov 2026 23:27:03 -0500</pubDate>
-            <sparkle:version>202611250424</sparkle:version>
-            <sparkle:shortVersionString>0.1.0</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/miborysenko/ana-updates/releases/download/mac-202611250424/Ana-macOS-202611250424.zip" length="18927537" type="application/octet-stream" sparkle:edSignature="wbrh4HZXGRdl6JLokgS6Ivd+xaBNKFUqUkoTA8sw66MYDC6wqsidbLQFW+Cxfa7OCRuPYfQxj6l2458Njmb8Bg=="/>
         </item>
     </channel>
 </rss>
