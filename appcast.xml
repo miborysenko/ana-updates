@@ -4,6 +4,14 @@
         <title>Ana</title>
         <item>
             <title>0.1.0</title>
+            <pubDate>Tue, 24 Nov 2026 21:34:45 -0500</pubDate>
+            <sparkle:version>202611250232</sparkle:version>
+            <sparkle:shortVersionString>0.1.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/miborysenko/ana-updates/releases/download/mac-202611250232/Ana-macOS-202611250232.zip" length="18834888" type="application/octet-stream" sparkle:edSignature="R64ZRR008Dr+gmHOrMrn4tP2HGbIHWCVioDRUU3bnR0Y+je0Xddcmjr4wO+U5aNl1sgRN2QVOd/c459gzMdrCQ=="/>
+        </item>
+        <item>
+            <title>0.1.0</title>
             <pubDate>Tue, 24 Nov 2026 21:06:55 -0500</pubDate>
             <sparkle:version>202611250204</sparkle:version>
             <sparkle:shortVersionString>0.1.0</sparkle:shortVersionString>
@@ -17,14 +25,6 @@
             <sparkle:shortVersionString>0.1.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
             <enclosure url="https://github.com/miborysenko/ana-updates/releases/download/mac-202611250129/Ana-macOS-202611250129.zip" length="18740275" type="application/octet-stream" sparkle:edSignature="8+J80Pfxl2/iOWFNzGfBWHVORSNVlzlz+EzVpXI9J3n0F3LxojEwVVjWejia6JGFerBIp6ZTPpdNE0th9F64BA=="/>
-        </item>
-        <item>
-            <title>0.1.0</title>
-            <pubDate>Tue, 24 Nov 2026 19:43:07 -0500</pubDate>
-            <sparkle:version>202611250040</sparkle:version>
-            <sparkle:shortVersionString>0.1.0</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/miborysenko/ana-updates/releases/download/mac-202611250040/Ana-macOS-202611250040.zip" length="18683643" type="application/octet-stream" sparkle:edSignature="YtcsS2DjSScitG4jJQjAo6J+LpeSiadLx7am1yilIaXMe60PljHTy0sLcqBs4nnhTzUUFkyuK7be+roKRgfIBA=="/>
         </item>
     </channel>
 </rss>
