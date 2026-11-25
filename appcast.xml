@@ -4,6 +4,14 @@
         <title>Ana</title>
         <item>
             <title>0.1.0</title>
+            <pubDate>Wed, 25 Nov 2026 01:40:06 -0500</pubDate>
+            <sparkle:version>202611250637</sparkle:version>
+            <sparkle:shortVersionString>0.1.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/miborysenko/ana-updates/releases/download/mac-202611250637/Ana-macOS-202611250637.zip" length="19230685" type="application/octet-stream" sparkle:edSignature="dgXwDIsYrKEi2fxtBxMGAmmkD5UPsWNdh4Tf3Zb533aSMYFXJHUhs2A7iyGVI8Io/5PhCPUHjLQUKEzSAdCWAg=="/>
+        </item>
+        <item>
+            <title>0.1.0</title>
             <pubDate>Tue, 24 Nov 2026 23:27:03 -0500</pubDate>
             <sparkle:version>202611250424</sparkle:version>
             <sparkle:shortVersionString>0.1.0</sparkle:shortVersionString>
@@ -17,14 +25,6 @@
             <sparkle:shortVersionString>0.1.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
             <enclosure url="https://github.com/miborysenko/ana-updates/releases/download/mac-202611250346/Ana-macOS-202611250346.zip" length="18864832" type="application/octet-stream" sparkle:edSignature="uK0ckS3mH3fg3laQluyTr8at6Jt4lkj7b7h96t7dobhQKL/lbH6QJCp711gHEfLfoqF6xU56aDbszJs9xmooAg=="/>
-        </item>
-        <item>
-            <title>0.1.0</title>
-            <pubDate>Tue, 24 Nov 2026 21:34:45 -0500</pubDate>
-            <sparkle:version>202611250232</sparkle:version>
-            <sparkle:shortVersionString>0.1.0</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/miborysenko/ana-updates/releases/download/mac-202611250232/Ana-macOS-202611250232.zip" length="18834888" type="application/octet-stream" sparkle:edSignature="R64ZRR008Dr+gmHOrMrn4tP2HGbIHWCVioDRUU3bnR0Y+je0Xddcmjr4wO+U5aNl1sgRN2QVOd/c459gzMdrCQ=="/>
         </item>
     </channel>
 </rss>
