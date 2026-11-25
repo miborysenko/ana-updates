@@ -4,6 +4,14 @@
         <title>Ana</title>
         <item>
             <title>0.1.0</title>
+            <pubDate>Wed, 25 Nov 2026 08:55:14 -0500</pubDate>
+            <sparkle:version>202611251352</sparkle:version>
+            <sparkle:shortVersionString>0.1.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/miborysenko/ana-updates/releases/download/mac-202611251352/Ana-macOS-202611251352.zip" length="19415159" type="application/octet-stream" sparkle:edSignature="ugWh/yEtC5QkrzpQXG0rpTGA3DaPIxvUvJqScUtqbsQk0yVkeTXHMSDDVplJUlLk9tDmikDLp6fGLS0gcK1dAg=="/>
+        </item>
+        <item>
+            <title>0.1.0</title>
             <pubDate>Wed, 25 Nov 2026 06:18:16 -0500</pubDate>
             <sparkle:version>202611251115</sparkle:version>
             <sparkle:shortVersionString>0.1.0</sparkle:shortVersionString>
@@ -17,14 +25,6 @@
             <sparkle:shortVersionString>0.1.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
             <enclosure url="https://github.com/miborysenko/ana-updates/releases/download/mac-202611251005/Ana-macOS-202611251005.zip" length="19358556" type="application/octet-stream" sparkle:edSignature="aAtotus3iiPEML6bBKvI1XMgv3+Psj8zCbX+SPwGAw0htxtTxIoBNa0WZSOXKTtv+IW45hjCcqsQ6wUPV4EDBA=="/>
-        </item>
-        <item>
-            <title>0.1.0</title>
-            <pubDate>Wed, 25 Nov 2026 04:11:22 -0500</pubDate>
-            <sparkle:version>202611250908</sparkle:version>
-            <sparkle:shortVersionString>0.1.0</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/miborysenko/ana-updates/releases/download/mac-202611250908/Ana-macOS-202611250908.zip" length="19322674" type="application/octet-stream" sparkle:edSignature="StoNs27NeYliJupVYuxFg9Yb+baowirnB+rTSsLpKHtO5fq+2ybQs3P6CGsz5IzURVbkRUYI4Ook3o7n46f4Cw=="/>
         </item>
     </channel>
 </rss>
