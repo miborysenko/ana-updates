@@ -4,6 +4,14 @@
         <title>Ana</title>
         <item>
             <title>0.1.0</title>
+            <pubDate>Tue, 24 Nov 2026 22:49:07 -0500</pubDate>
+            <sparkle:version>202611250346</sparkle:version>
+            <sparkle:shortVersionString>0.1.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/miborysenko/ana-updates/releases/download/mac-202611250346/Ana-macOS-202611250346.zip" length="18864832" type="application/octet-stream" sparkle:edSignature="uK0ckS3mH3fg3laQluyTr8at6Jt4lkj7b7h96t7dobhQKL/lbH6QJCp711gHEfLfoqF6xU56aDbszJs9xmooAg=="/>
+        </item>
+        <item>
+            <title>0.1.0</title>
             <pubDate>Tue, 24 Nov 2026 21:34:45 -0500</pubDate>
             <sparkle:version>202611250232</sparkle:version>
             <sparkle:shortVersionString>0.1.0</sparkle:shortVersionString>
@@ -17,14 +25,6 @@
             <sparkle:shortVersionString>0.1.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
             <enclosure url="https://github.com/miborysenko/ana-updates/releases/download/mac-202611250204/Ana-macOS-202611250204.zip" length="18747480" type="application/octet-stream" sparkle:edSignature="+9C7XcBU6WQmHWUaF3C/TR6Du+QUoZLyfx1AynfzQxWKAhRRcGJTX4DiRlI1GrkkXxoilx0BMqROCa8zTEagAg=="/>
-        </item>
-        <item>
-            <title>0.1.0</title>
-            <pubDate>Tue, 24 Nov 2026 20:32:24 -0500</pubDate>
-            <sparkle:version>202611250129</sparkle:version>
-            <sparkle:shortVersionString>0.1.0</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/miborysenko/ana-updates/releases/download/mac-202611250129/Ana-macOS-202611250129.zip" length="18740275" type="application/octet-stream" sparkle:edSignature="8+J80Pfxl2/iOWFNzGfBWHVORSNVlzlz+EzVpXI9J3n0F3LxojEwVVjWejia6JGFerBIp6ZTPpdNE0th9F64BA=="/>
         </item>
     </channel>
 </rss>
