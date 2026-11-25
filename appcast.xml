@@ -4,6 +4,14 @@
         <title>Ana</title>
         <item>
             <title>0.1.0</title>
+            <pubDate>Wed, 25 Nov 2026 02:35:23 -0500</pubDate>
+            <sparkle:version>202611250732</sparkle:version>
+            <sparkle:shortVersionString>0.1.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/miborysenko/ana-updates/releases/download/mac-202611250732/Ana-macOS-202611250732.zip" length="19299158" type="application/octet-stream" sparkle:edSignature="3O5fB/tIjAVKhbRh2PZ2g4DEdnMeoZvYSsHOqvGZy2JstDDz6xFbKM034sy+1MuHOUNk2PrtB0LrWIVHr5HbCw=="/>
+        </item>
+        <item>
+            <title>0.1.0</title>
             <pubDate>Wed, 25 Nov 2026 01:40:06 -0500</pubDate>
             <sparkle:version>202611250637</sparkle:version>
             <sparkle:shortVersionString>0.1.0</sparkle:shortVersionString>
@@ -17,14 +25,6 @@
             <sparkle:shortVersionString>0.1.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
             <enclosure url="https://github.com/miborysenko/ana-updates/releases/download/mac-202611250424/Ana-macOS-202611250424.zip" length="18927537" type="application/octet-stream" sparkle:edSignature="wbrh4HZXGRdl6JLokgS6Ivd+xaBNKFUqUkoTA8sw66MYDC6wqsidbLQFW+Cxfa7OCRuPYfQxj6l2458Njmb8Bg=="/>
-        </item>
-        <item>
-            <title>0.1.0</title>
-            <pubDate>Tue, 24 Nov 2026 22:49:07 -0500</pubDate>
-            <sparkle:version>202611250346</sparkle:version>
-            <sparkle:shortVersionString>0.1.0</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/miborysenko/ana-updates/releases/download/mac-202611250346/Ana-macOS-202611250346.zip" length="18864832" type="application/octet-stream" sparkle:edSignature="uK0ckS3mH3fg3laQluyTr8at6Jt4lkj7b7h96t7dobhQKL/lbH6QJCp711gHEfLfoqF6xU56aDbszJs9xmooAg=="/>
         </item>
     </channel>
 </rss>
